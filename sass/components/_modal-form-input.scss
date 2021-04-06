@@ -1,0 +1,14 @@
+.modal-form-input{
+    width:488px;
+    height: 40px;
+    border: 1px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+  padding-left: 42px;
+  transition: border-color 250ms linear;
+  }
+  
+  .modal-form-input:focus{
+    outline:none;
+    border-color: #2196F3;
+    fill:#2196f3;
+  }
